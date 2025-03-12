@@ -23,7 +23,7 @@ Font: Iosevka
 
 ```lua
 {
-    'behemothbucket/gruber-darker-theme.nvim',
+    'wassou93/gruber-darker-theme.nvim',
     priority = 1000,
     lazy = false,
     config = function()
